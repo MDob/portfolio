@@ -28,8 +28,8 @@ experience:
     company_logo: uvic-logo
     location: Victoria, BC
     date_start: '2020-09-01'
-    date_end: ''
-    description: Researching applications for optical trapping using double nanohole structures.
+    date_end: '2022-04-29'
+    description: Researched applications for optical trapping using double nanohole structures.
         
   - title: Hardware Engineer (EIT)
     company: Kobelt Manufacturing

@@ -11,19 +11,19 @@ authors:
   - Frank CJM van Veggel
   - Reuven Gordon
 author_notes: ""
-publication: In Optical Trapping and Optical Micromanipulation XVIII
+publication: "In *Proceedings of SPIE 11798: Optical Trapping and Optical Micromanipulation XVIII*"
 summary: The geometry of double nanohole plasmonic apertures can be tuned to provide significant emission enhancement from upconversion nanocrystals, compared to using rectangular apertures.
 url_dataset: ""
 url_project: ""
-publication_short: SPIE
+publication_short: "In *Proc. SPIE 11798: Optical Trapping and Optical Micromanipulation XVIII*"
 url_source: ""
 url_video: ""
 title: Upconversion nanocrystal emission rate enhancement using double nanoholes
 doi: "10.1117/12.2594280"
 featured: false
-tags: []
+tags: [MASc]
 projects:
-  - Research
+  - masc
 #image:
 #  caption: ""
 #  focal_point: ""

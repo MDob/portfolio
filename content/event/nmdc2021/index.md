@@ -12,20 +12,20 @@ address:
   #postcode: '94305'
   country: Canada
 
-summary: A conference presentation about using double nanoholes to enhance emission of erbium-doped nanocrystals.
+summary: A conference presentation about using double nanohole optical trapping with erbium-doped nanocrystals titled 'Enhancing and Isolating Lanthanide-Doped Nanocrystals Using Double Nanohole Optical Tweezers for Quantum Light Sources at 1550 nm'.
 abstract: "Quantum technologies require sources of single photons, which can be created by isolating individual atoms or ions. Erbium ions are a promising choice for single photon sources as it emits photons at low-loss fiber optic wavelengths. However, erbium has a low emission rate and it is challenging to isolate reliably single emitters. Here, we isolate singly Er3+-doped nanocrystals using optical tweezers in a gold double nanohole aperture. The double nanohole geometry enhances the emission rate from the nanocrystals. With this additional enhancement we observe emission at 1550 nm. Discrete levels of emission from dilutely Er3+-doped nanocrystals are observed—–corresponding to the number of active erbium emitters present. Nanocrystals with single active emitters were identified and isolated with this technique, demonstrating a path towards single emitter sources at 1550 nm."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-12-12"
-date_end: "2021-12-15"
+date: "2021-12-14T11:30:00Z"
+#date_end: "2021-12-15"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: []
+tags: [MASc]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -57,5 +57,5 @@ url_video: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- Research
+- masc
 ---

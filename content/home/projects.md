@@ -27,8 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Research
-    tag: Research
+  - name: PhD
+    tag: PhD
+  - name: MASc
+    tag: MASc
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

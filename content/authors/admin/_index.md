@@ -1,10 +1,10 @@
 ---
 title: Michael Dobinson
-role: Master's Student
-bio: My research interests include optics, photonics, and microelectronics.
+role: PhD Student
+bio: Research interests include quantum computing, optics, photonics, and microelectronics.
 interests:
-  - Optics & Photonics
   - Quantum Technology
+  - Optics & Photonics
 social:
   - icon: envelope
     icon_pack: fas
@@ -16,13 +16,16 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/michaeldobinson/
 organizations:
-  - name: University of Victoria
-    url: https://www.uvic.ca/
+  - name: Simon Fraser University
+    url: https://www.sfu.ca/
 education:
   courses:
+    - course: PhD in Physics
+      institution: Simon Fraser University
+      year: starting Fall 2022
     - course: MASc in Electrical and Computer Engineering
       institution: University of Victoria
-      year: 2020 - present
+      year: 2022
     - course: BEng in Electrical Engineering
       institution: University of Victoria
       year: 2018
@@ -30,6 +33,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Michael Dobinson is a research assistant in the Nanoplasmonics Research Group at the University of Victoria. His research focuses on applying plasmon-enhanced optical trapping using double nanohole structures to explore novel single-photon sources.
+Michael Dobinson is an upcoming PhD student in the Department of Physics at Simon Fraser University, supervised by Dr. Stephanie Simmons. In 2018 he completed his BEng in Electrical Engineering at the University of Victoria before working in the marine industry, designing electronic ship steering systems. Starting a Master's program at the University of Victoria in 2020, he worked in the Nanoplasmonics Research Group under Dr. Reuven Gordon. He obtained a MASc in Electrical and Computer Engineering in 2022 with research focussed on nanoaperture optical trapping of quantum light source candidates.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}academic CV{{< /staticref >}}.

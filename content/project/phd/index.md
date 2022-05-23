@@ -1,9 +1,9 @@
 ---
-title: Nanoplasmonics Research Group
-summary: A research group at the University of Victoria using nanostructured metals for optical trapping and more.
+title: Silicon Quantum Technology Lab
+summary: A research group at the Simon Fraser University building quantum technologies using silicon. They have explored silicon defects as quantum bits and are working to develop a 'photonic link' between spin qubits and photon qubits in silicon.
 tags:
-- Research
-date: "2020-09-09T00:00:00Z"
+- PhD
+date: "2022-09-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,7 +16,7 @@ links:
 - #icon: twitter
   #icon_pack: fab
   name: Link
-  url: https://www.ece.uvic.ca/~rgordon/index.html
+  url: https://www.sfu.ca/physics/siliconquantum/
 url_code: ""
 url_pdf: ""
 url_slides: ""
