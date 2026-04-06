@@ -1,5 +1,5 @@
 ---
-title: NFO 2022
+title: "[Poster] NFO 2022"
 
 event: The 16th International Conference on Near-Field Optics, Nanophotonics and Related Techniques
 event_url: https://nfo16.ece.uvic.ca/

@@ -7,8 +7,8 @@ authors:
   - Zohreh Sharifi
   - admin
   - Ghazal Haji Salem
-  - Adriaan L Frencken
-  - Frank CJM van Veggel
+  - Adriaan L. Frencken
+  - Frank C.J.M. van Veggel
   - Reuven Gordon
 author_notes: ""
 publication: "In *Proceedings of SPIE 11798: Optical Trapping and Optical Micromanipulation XVIII*"

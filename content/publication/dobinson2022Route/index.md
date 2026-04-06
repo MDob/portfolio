@@ -18,7 +18,7 @@ url_source: ""
 url_video: ""
 title: "A route to erbium-doped nanocrystals as a single photon source using double nanohole optical tweezers"
 doi: "1828/13900"
-featured: true
+featured: false
 tags: [MASc]
 projects:
   - masc

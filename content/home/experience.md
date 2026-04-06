@@ -22,6 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Assistant (Part-time)
+    company: Photonic Inc.
+    company_url: ''
+    company_logo: photonic-logo
+    location: Coquitlam, BC
+    date_start: '2022-09-01'
+    date_end: ''
+    description: Silicon T centre research and lab work, optical and electronics assembly, technical document editing.
+        
+  - title: Research Assistant (Silicon Quantum Technology Lab)
+    company: Simon Fraser University
+    company_url: ''
+    company_logo: sqt-logo
+    location: Burnaby, BC
+    date_start: '2022-09-01'
+    date_end: ''
+    description: Integrating the silicon T centre with p-i-n diodes for quantum technologies.
+        
   - title: Research Assistant (Nanoplasmonics Research Group)
     company: University of Victoria
     company_url: ''

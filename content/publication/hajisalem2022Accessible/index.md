@@ -14,11 +14,11 @@ authors:
   - Laura S. Itzhaki
   - Reuven Gordon
 author_notes: ""
-publication: "*Optics Express*"
+publication: 'Hajisalem, G., Babaei, E., **Dobinson, M.** *et al.* "Accessible high-performance double nanohole tweezers," *Opt. Express* **30**, 3760-3769 (2022).'
 summary: Nanohole optical tweezers can be used without expensive top-down approaches such as electron microscopy or focused-ion beam milling by using polarization analysis to identify double nanoholes. Different substrates can also improve trapping and tape exfoliation can be used to simplify fabrication.
 url_dataset: ""
 url_project: ""
-publication_short: "*Opt. Express*"
+publication_short: "*Opt. Express* **30**, 3760–3769"
 url_source: ""
 url_video: ""
 title: Accessible High-Performance Double Nanohole Tweezers

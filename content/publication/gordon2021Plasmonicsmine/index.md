@@ -7,11 +7,11 @@ authors:
   - Reuven Gordon
   - admin
 author_notes: ""
-publication: "*Optical Materials Express*"
+publication: 'Gordon, R. and **Dobinson, M.** "Plasmonics–mine the gap: opinion" *Opt. Mat. Express* **11**, 2192–2196 (2021).'
 summary: Gap plasmon structures could enable future ultrafast communication and many of the structures needed have already been developed.
 url_dataset: ""
 url_project: ""
-publication_short: "*Opt. Mat. Express*"
+publication_short: "*Opt. Mat. Express* **11**, 2192–2196"
 url_source: ""
 url_video: ""
 title: "Plasmonics–mine the gap: opinion"

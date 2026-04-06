@@ -7,8 +7,8 @@ authors:
   - Zohreh Sharifi
   - admin
   - Ghazal Hajisalem
-  - Adriaan L Frencken
-  - Frank CJM van Veggel
+  - Adriaan L. Frencken
+  - Frank C.J.M. van Veggel
   - Reuven Gordon
 author_notes: ""
 publication: "In *2021 IEEE 16th Nanotechnology Materials and Devices Conference (NMDC)*"

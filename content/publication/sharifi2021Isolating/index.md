@@ -9,10 +9,10 @@ authors:
   - Ghazal Hajisalem
   - Mirali Seyed Shariatdoust
   - Adriaan L Frencken
-  - Frank CJM van Veggel
+  - Frank C.J.M. van Veggel
   - Reuven Gordon
 author_notes: ""
-publication: "*The Journal of Chemical Physics*"
+publication: 'Sharifi, Z., Dobinson, M., Hajisalem, G. *et al.* "Isolating and enhancing single-photon emitters for 1550 nm quantum light sources using double nanohole optical tweezers" *J. Chem. Phys.* **154**, 184204 (2021).'
 summary: Plasmon-enhanced optical trapping was used to isolate nanocrystals with discrete levels of erbium ions. These levels were detected by observing discrete levels of emission from the erbium ions. Future work will investigate nanocrystals containing single erbium ions as single-photon sources.
 url_dataset: ""
 url_project: ""
